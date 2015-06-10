@@ -19,6 +19,9 @@ UITableViewDelegate
 
 @implementation ViewController
 
+/**
+ *  生命周期
+ */
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
